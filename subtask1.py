@@ -8,3 +8,4 @@ while(n>=r*r):
 	r=r-1
 	q=r*r
 	print(q)
+# it looks like I learned how to use git today
