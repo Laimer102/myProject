@@ -24,3 +24,4 @@ print(s)
 print('Average:')
 print(a)
 print('Minimum:')
+# it looks like I learned how to use git today
